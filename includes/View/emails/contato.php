@@ -28,6 +28,10 @@
                     <td>
                         <table width="100%" border="0" cellspacing="0" cellpadding="0" style="padding:45px 45px 25px 45px; text-align:left;">
 
+                              </br>
+                                <div style="font-family:Verdana, Geneva, sans-serif; font-size:21px; color:#656666; padding:35px 0 0 50px;"><b>Olá.</b></div>
+                                <div style="font-family:Verdana, Geneva, sans-serif; font-size:12px; color:#656666; padding:35px 50px 30px 50px; line-height:20px;">
+
                                 Um novo contato foi enviado através do site da Vanessa Guerra.
                                 Confira abaixo as informações a respeito.
                                 <br />
