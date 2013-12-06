@@ -13,7 +13,7 @@
 				<td style="font-size:11px; color:#666;">#senha</td>
 			</tr>
 			<tr>
-				<td style="text-align:right; font-size:11px; color:#666; padding:0 8px 0 0; font-weight:bold;">Painel</td>
+				<td style="text-align:right; font-size:11px; color:#666; padding:0 8px 0 0; font-weight:bold;">Painel:</td>
 				<td style="font-size:11px; color:#666;"><a href="#url_site/ack" targer="_blank">#url_site/ack</a></td>
 			</tr>
 		</table>
