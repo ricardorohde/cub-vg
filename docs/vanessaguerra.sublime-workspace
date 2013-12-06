@@ -1,0 +1,1739 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"getCon",
+				"getConfig"
+			],
+			[
+				"getConfig",
+				"getConfigGlobal"
+			],
+			[
+				"ERROR",
+				"error_reporting"
+			],
+			[
+				"resul",
+				"resultSystem"
+			],
+			[
+				"categ",
+				"categoryId"
+			],
+			[
+				"ele",
+				"elementId"
+			],
+			[
+				"result",
+				"resultInstitucional"
+			],
+			[
+				"para",
+				"params"
+			],
+			[
+				"categoryE",
+				"categoryElementId"
+			],
+			[
+				"sel",
+				"selectByModule"
+			],
+			[
+				"produ",
+				"productResult"
+			],
+			[
+				"obj",
+				"objNames"
+			],
+			[
+				"co",
+				"columns"
+			],
+			[
+				"where",
+				"whereProduct"
+			],
+			[
+				"produc",
+				"productElement"
+			],
+			[
+				"cate",
+				"categoryId"
+			],
+			[
+				"prod",
+				"product"
+			],
+			[
+				"arraykey",
+				"array_key_exists"
+			],
+			[
+				"file",
+				"fileName"
+			],
+			[
+				"reusl",
+				"resultInstitucional"
+			],
+			[
+				"CLAS",
+				"className"
+			],
+			[
+				"elem",
+				"elementId"
+			],
+			[
+				"class",
+				"className"
+			],
+			[
+				"error",
+				"error_reporting"
+			],
+			[
+				"user",
+				"userResult"
+			],
+			[
+				"counter",
+				"counterRows"
+			],
+			[
+				"_rows",
+				"_rowsToGet"
+			],
+			[
+				"rows",
+				"rowsToGet"
+			],
+			[
+				"_row",
+				"_rowsToGet"
+			],
+			[
+				"_ro",
+				"_rowsToGet"
+			],
+			[
+				"set",
+				"setOuter"
+			],
+			[
+				"update",
+				"updateOrCreate"
+			],
+			[
+				"once",
+				"ondeComprarResult"
+			],
+			[
+				"cidade",
+				"cidadeResult"
+			],
+			[
+				"ond",
+				"ondeComprarResult"
+			],
+			[
+				"subst",
+				"substitutos"
+			],
+			[
+				"sub",
+				"substitutos"
+			],
+			[
+				"usuari",
+				"usuarioResult"
+			],
+			[
+				"onde",
+				"ondeComprarResult"
+			],
+			[
+				"whe",
+				"whereOuter"
+			],
+			[
+				"pais",
+				"paisId"
+			],
+			[
+				"rsul",
+				"resultCidade"
+			],
+			[
+				"estado",
+				"estadoResult"
+			],
+			[
+				"cidad",
+				"cidadesResult"
+			],
+			[
+				"produto",
+				"produtoResult"
+			],
+			[
+				"produt",
+				"produtoResult"
+			],
+			[
+				"pedi",
+				"pedidos_produtos"
+			],
+			[
+				"su",
+				"substitutosIds"
+			],
+			[
+				"ped",
+				"pedidosResult"
+			],
+			[
+				"param",
+				"parameters"
+			],
+			[
+				"array_key",
+				"array_key_exists"
+			],
+			[
+				"fie",
+				"fileName"
+			],
+			[
+				"exer",
+				"externDB"
+			],
+			[
+				"mo",
+				"modulesResult"
+			],
+			[
+				"getmO",
+				"getModulesResult"
+			],
+			[
+				"curr",
+				"currValue"
+			],
+			[
+				"col",
+				"columnName"
+			],
+			[
+				"categorias",
+				"categoriasResult"
+			],
+			[
+				"mod",
+				"moduleResult"
+			],
+			[
+				"tipo",
+				"tipoEmail"
+			],
+			[
+				"con",
+				"conditions"
+			],
+			[
+				"usuario",
+				"usuarioModule"
+			],
+			[
+				"pedidos",
+				"pedidosArray"
+			],
+			[
+				"pedidsPro",
+				"pedidosProdutosRestul"
+			],
+			[
+				"pedidosProd",
+				"pedidosProdutosRestul"
+			],
+			[
+				"pedido",
+				"pedidosProdutosRestul"
+			],
+			[
+				"pedo",
+				"pedidosProdutos"
+			],
+			[
+				"Peddo",
+				"pedidos_produtos"
+			],
+			[
+				"usu",
+				"usuarioResult"
+			],
+			[
+				"pla",
+				"player1"
+			],
+			[
+				"play",
+				"player2"
+			],
+			[
+				"int",
+				"institucional"
+			],
+			[
+				"ca",
+				"categoriasArray"
+			],
+			[
+				"MOno",
+				"MonopolyTestCase"
+			],
+			[
+				"inst",
+				"institutional"
+			],
+			[
+				"per",
+				"perguntaResult"
+			],
+			[
+				"liN",
+				"linhaResult"
+			],
+			[
+				"pro",
+				"produtoResult"
+			],
+			[
+				"ap",
+				"aplicacaoId"
+			],
+			[
+				"sala",
+				"salary"
+			],
+			[
+				"sal",
+				"salario2"
+			],
+			[
+				"salar",
+				"salario1"
+			],
+			[
+				"produtos",
+				"produtosResult"
+			],
+			[
+				"Ins",
+				"institucional"
+			],
+			[
+				"noti",
+				"noticiasResult"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"total",
+				"totalItens"
+			],
+			[
+				"pedidoPro",
+				"pedidoProdutosResult"
+			],
+			[
+				"pedid",
+				"pedidoId"
+			],
+			[
+				"res",
+				"resultPedido"
+			],
+			[
+				"Pedido",
+				"Pedidos_Produtos"
+			],
+			[
+				"valu",
+				"valuesSchema"
+			],
+			[
+				"column",
+				"columnName"
+			],
+			[
+				"orcamen",
+				"orcamento_status"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"dados",
+				"dadosJSON"
+			],
+			[
+				"ro",
+				"resultOrcamentos"
+			],
+			[
+				"or",
+				"orcamento"
+			],
+			[
+				"usua",
+				"usuario_ack"
+			],
+			[
+				"diff",
+				"diff_result"
+			],
+			[
+				"image",
+				"imagePath"
+			],
+			[
+				"orcament",
+				"orcamentoItensResult"
+			],
+			[
+				"log",
+				"log_id"
+			],
+			[
+				"array",
+				"arrayResult"
+			],
+			[
+				"nume",
+				"numberOfRows"
+			],
+			[
+				"lista",
+				"listaProdutosAtualizados"
+			],
+			[
+				"id",
+				"identificador"
+			],
+			[
+				"list",
+				"listaProdutosAtualizados"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"modulo",
+				"moduloId"
+			],
+			[
+				"WHE",
+				"whereClausule"
+			],
+			[
+				"ins",
+				"institutionalId"
+			],
+			[
+				"in",
+				"institutionalId"
+			],
+			[
+				"ora",
+				"orcamentos_lista"
+			],
+			[
+				"salvarUsuario",
+				"salvarUsuario_app"
+			],
+			[
+				"wh",
+				"whereClausule"
+			],
+			[
+				"obje",
+				"objectToArray"
+			],
+			[
+				"totl",
+				"totalItens"
+			],
+			[
+				"endere",
+				"endereco_site"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/media/data/cubWebserver/vanessaguerra/includes/bootstrap.php",
+			"settings":
+			{
+				"buffer_size": 1682,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/media/data/cubWebserver/vanessaguerra/includes/library/1.0/System/Autoloader.php",
+			"settings":
+			{
+				"buffer_size": 3054,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 54.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				":w",
+				":w - Save"
+			],
+			[
+				":W",
+				":w - Save"
+			],
+			[
+				"getset",
+				"Snippet: Create getter and setter methods"
+			],
+			[
+				"Snippet: get",
+				"Snippet: GET['…']"
+			],
+			[
+				"Package Control: instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control:in",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 426.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": true,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": true,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/media/data/cubWebserver/vanessaguerra/includes/Controller/home_Controller.php",
+		"/media/data/cubWebserver/vanessaguerra/includes/bootstrap.php",
+		"/media/data/cubWebserver/vanessaguerra/includes/configs/application.ini",
+		"/media/data/cubWebserver/vanessaguerra/includes/library/1.0/System/Autoloader.php",
+		"/media/data/cubWebserver/vanessaguerra/includes/library/1.0/System/Application.php",
+		"/media/data/cubWebserver/vanessaguerra/includes/library/Zend/Application.php",
+		"/media/data/cubWebserver/vanessaguerra/includes/library/Zend/Tool/Project/Context/Zf/ApplicationConfigFile.php",
+		"/media/data/cubWebserver/vanessaguerra/includes/library/0.9/System/Object/String.php",
+		"/media/data/cubWebserver/vanessaguerra/includes/Controller/projetos_Controller.php",
+		"/media/data/cubWebserver/vanessaguerra/includes/library/0.9/System/Controller.php",
+		"/media/data/cubWebserver/vanessaguerra/includes/Controller/escritorio_Controller.php",
+		"/media/data/cubWebserver/vanessaguerra/includes/library/1.0/System/Object/String.php",
+		"/media/data/cubWebserver/vanessaguerra/includes/library/1.0/System/Object/Array.php",
+		"/media/data/cubWebserver/vanessaguerra/includes/library/0.9/Reuse/ACK/Controller/ProductController.php",
+		"/media/data/cubWebserver/vanessaguerra/includes/library/0.9/System/Autoloader/Loader/CurrDir.php",
+		"/media/data/cubWebserver/vanessaguerra/includes/library/1.0/System/Autoloader/Loader/Library.php",
+		"/media/data/cubWebserver/vanessaguerra/includes/library/0.9/System/Autoloader.php",
+		"/media/data/cubWebserver/vanessaguerra/includes/library/0.9/System/Autoloader/Loader/Library.php",
+		"/media/data/cubWebserver/vanessaguerra/includes/library/0.9/System/Autoloader/Loader/Interface.php",
+		"/media/data/cubWebserver/vanessaguerra/includes/library/0.9/System/Application.php",
+		"/media/data/cubWebserver/vanessaguerra/includes/library/0.9/System/Autoloader/Loader/Library",
+		"/media/data/cubWebserver/vanessaguerra/includes/library/0.9/System/Autoloader/Loader",
+		"/media/data/cubWebserver/vanessaguerra/includes/library/0.9/System/Autoloader/Loader/Default.php",
+		"/media/data/cubWebserver/vanessaguerra/includes/library/0.9/System/Autoloader/Loaders/Interface.php",
+		"/media/data/cubWebserver/vanessaguerra/includes/library/0.9/System/Config.php",
+		"/media/data/cubWebserver/vanessaguerra/includes/library/0.9/System/Config/Ini.php",
+		"/media/data/cubWebserver/vanessaguerra/includes/helpers.php",
+		"/media/data/cubWebserver/vanessaguerra/includes/library/0.9/System/utils.php",
+		"/media/data/cubWebserver/vanessaguerra/includes/library/0.9/System/Object/Array.php",
+		"/media/data/cubWebserver/vanessaguerra/includes/library/0.9/System/Registry.php",
+		"/media/data/cubWebserver/vanessaguerra/includes/library/0.9/System/Object/Password.php",
+		"/media/data/cubWebserver/vanessaguerra/includes/library/0.9/System/Object/Encryption.php",
+		"/media/data/cubWebserver/vanessaguerra/includes/library/System/Autoloader.php",
+		"/media/data/cubWebserver/vanessaguerra/includes/library/System/Application.php",
+		"/media/data/cubWebserver/vanessaguerra/includes/library/System/Application/Bootstrap.php",
+		"/media/data/cubWebserver/vanessaguerra/includes/library/System/Plugin/AccessNumber.php",
+		"/media/data/cubWebserver/vanessaguerra/includes/library/System/Plugin/Interface.php",
+		"/media/data/cubWebserver/vanessaguerra/includes/library/System/Plugin/Abstract.php",
+		"/media/data/cubWebserver/vanessaguerra/includes/library/System/Controller.php",
+		"/media/data/cubWebserver/vanessaguerra/includes/library/System/Mail.php",
+		"/media/data/cubWebserver/vanessaguerra/includes/library/System/Config/Configurable/Interface.php",
+		"/media/data/cubWebserver/vanessaguerra/includes/library/System/Config/Configurable/Abstract.php",
+		"/media/data/cubWebserver/vanessaguerra/includes/library/System/Mail/Interface.php",
+		"/media/data/cubWebserver/vanessaguerra/includes/Controller/contato_Controller.php",
+		"/media/data/cubWebserver/vanessaguerra/includes/library/System/Plugin/LayoutSwitcher.php",
+		"/media/data/cubWebserver/vanessaguerra/includes/library/System/Location/Location.php",
+		"/media/data/cubWebserver/vanessaguerra/includes/library/System/Plugin/Authenticatable/Interface.php",
+		"/media/data/cubWebserver/vanessaguerra/includes/library/System/Plugin/Authenticatable/Authenticator.php",
+		"/media/data/cubWebserver/vanessaguerra/includes/library/System/Plugin/Location/Location.php",
+		"/media/data/cubWebserver/vanessaguerra/includes/Model/ack/ACKgeral_Model.php",
+		"/media/data/cubWebserver/vanessaguerra/includes/library/System/Plugins/Abstract.php",
+		"/media/data/cubWebserver/vanessaguerra/includes/library/System/Plugins/Interface.php",
+		"/media/data/cubWebserver/vanessaguerra/includes/library/System/Controller/Plugin/AccessNumber.php",
+		"/media/data/cubWebserver/vanessaguerra/includes/library/System/Controller/Plugin/Abstract.php",
+		"/media/data/cubWebserver/vanessaguerra/includes/library/System/Controller/Plugin/Interface.php",
+		"/media/data/cubWebserver/vanessaguerra/includes/library/System/Plugins/Authenticatable/Authenticator.php",
+		"/media/data/cubWebserver/vanessaguerra/includes/View/ack/dashboard.php",
+		"/media/data/cubWebserver/vanessaguerra/includes/library/Reuse/ACK/Model/View.php",
+		"/media/data/cubWebserver/vanessaguerra/includes/View/ack/dados_gerais.php",
+		"/media/data/cubWebserver/vanessaguerra/includes/library/System/Controller/Plugin/AccessCounter.php",
+		"/media/data/cubWebserver/vanessaguerra/includes/View/ack/_header.php",
+		"/media/data/cubWebserver/vanessaguerra/includes/Model/ack/ACKlogs_Model.php",
+		"/media/data/cubWebserver/vanessaguerra/includes/View/ack/produtos.php",
+		"/media/data/cubWebserver/vanessaguerra/includes/View/ack/produto.php",
+		"/media/data/cubWebserver/vanessaguerra/includes/View/front/layout/_header.php",
+		"/media/data/cubWebserver/vanessaguerra/includes/library/Reuse/ACK/View/helpers/Show/GoogleAnalytics.php",
+		"/media/data/cubWebserver/vanessaguerra/includes/library/Reuse/ACK/View/helpers/Show/Meta.php",
+		"/media/data/cubWebserver/vanessaguerra/includes/View/helpers/RetrieveModules.php",
+		"/media/data/cubWebserver/vanessaguerra/includes/library/Reuse/ACK/View/helpers/Retrieve/Modules.php",
+		"/media/data/cubWebserver/vanessaguerra/includes/View/helpers/RetrieveHighlight.php",
+		"/media/data/cubWebserver/vanessaguerra/includes/library/Reuse/ACK/View/helpers/Retrieve/Highlight.php",
+		"/media/data/cubWebserver/vanessaguerra/includes/View/front/layout/_layout.php",
+		"/media/data/cubWebserver/vanessaguerra/js/site/script.vanessa_guerra.js",
+		"/media/data/cubWebserver/vanessaguerra/includes/library/Reuse/ACK/Model/System.php",
+		"/media/data/cubWebserver/vanessaguerra/includes/library/Reuse/ACK/Model/Product.php",
+		"/media/data/cubWebserver/vanessaguerra/includes/library/Reuse/ACK/View/helpers/Show/ShowMeta.php",
+		"/media/data/cubWebserver/vanessaguerra/includes/library/Reuse/ACK/View/helpers/Show/ShowGoogleAnalytics.php",
+		"/media/data/cubWebserver/vanessaguerra/includes/library/Reuse/ACK/View/helpers/ShowGoogleAnalytics.php",
+		"/media/data/cubWebserver/vanessaguerra/includes/library/Reuse/ACK/View/helpers/ShowMeta.php",
+		"/media/data/cubWebserver/vanessaguerra/includes/library/Reuse/ACK/View/helpers/RetrieveGoogleAnalytics.php",
+		"/media/data/cubWebserver/vanessaguerra/includes/library/Reuse/ACK/View/helpers/RetrieveMeta.php",
+		"/media/data/cubWebserver/vanessaguerra/includes/library/Reuse/ACK/View/helpers/RetrieveGoogleAnalytics.",
+		"/media/data/cubWebserver/vanessaguerra/includes/config.php",
+		"/media/data/cubWebserver/vanessaguerra/includes/config.online.php",
+		"/media/data/cubWebserver/vanessaguerra/includes/config.local.php",
+		"/media/data/cubWebserver/vanessaguerra/layout/json.php",
+		"/media/data/cubWebserver/vanessaguerra/includes/View/ack/produtos_categoria.php",
+		"/media/data/cubWebserver/vanessaguerra/includes/View/ack/institucional_topico.php",
+		"/media/data/cubWebserver/vanessaguerra/includes/View/ack/modulo.php",
+		"/media/data/cubWebserver/vanessaguerra/includes/library/System/VERSION.txt",
+		"/media/data/cubWebserver/vanessaguerra/includes/library/Reuse/ACK/Controller/helpers/Search/CategoryProduct.php",
+		"/media/data/cubWebserver/vanessaguerra/includes/Controller/ack/ACKcontatos_Controller.php",
+		"/media/data/cubWebserver/vanessaguerra/includes/library/Reuse/ACK/Controller/helpers/Search/CategoryProduct/ProductTitle.php",
+		"/media/data/cubWebserver/vanessaguerra/includes/Controller/helpers/Search.php",
+		"/media/data/cubWebserver/vanessaguerra/includes/Controller/helpers/SearchCategoryAndProductByCategoryTitle.php",
+		"/media/data/cubWebserver/vanessaguerra/includes/Controller/helpers/SearchCategoryAndProductByProductTitle.php",
+		"/media/data/cubWebserver/vanessaguerra/includes/library/Reuse/ACK/Controller/helpers/Search/CategoryProduct/CategoryTitle.php",
+		"/media/data/cubWebserver/vanessaguerra/includes/library/Reuse/ACK/Controller/helpers/Search/SearchCategoryProduct.php",
+		"/media/data/cubWebserver/vanessaguerra/includes/library/Reuse/ACK/Controller/helpers/SearchCategoryProduct.php",
+		"/media/data/cubWebserver/vanessaguerra/includes/Controller/helpers/SearchProductAndCategoryByCategoryTitle.php",
+		"/media/data/cubWebserver/vanessaguerra/includes/Controller/helpers/SearchProductAndCategoryByProductTitle.php",
+		"/media/data/cubWebserver/vanessaguerra/includes/connect.php",
+		"/media/data/cubWebserver/vanessaguerra/includes/Controller/helpers/SearchProduct.php",
+		"/media/data/cubWebserver/vanessaguerra/includes/Controller/helpers/SearchCategory.php",
+		"/media/data/cubWebserver/vanessaguerra/includes/library/Reuse/ACK/Model/Category.php",
+		"/media/data/cubWebserver/vanessaguerra/includes/library/System/Search/Abstract.php",
+		"/media/data/cubWebserver/vanessaguerra/includes/library/System/Search.php",
+		"/media/data/cubWebserver/vanessaguerra/includes/library/Zend/Layout.php",
+		"/media/data/cubWebserver/vanessaguerra/includes/php.ini",
+		"/media/data/cubWebserver/vanessaguerra/includes/library/Reuse/ACK/Model/Institutional.php",
+		"/media/data/cubWebserver/vanessaguerra/includes/library/System/DB/Table.php",
+		"/media/data/cubWebserver/vanessaguerra/includes/View/ack/institucional.php",
+		"/media/data/cubWebserver/vanessaguerra/includes/library/Reuse/ACK/Model/Metatag.php",
+		"/media/data/cubWebserver/vanessaguerra/includes/library/Reuse/Base/View/helpers/RetrieveMeta.php",
+		"/media/data/cubWebserver/vanessaguerra/includes/library/Reuse/ACK/Model/Log.php",
+		"/media/data/cubWebserver/vanessaguerra/includes/library/Reuse/ACK/View/helpers/RetrieveHighlight.php",
+		"/media/data/cubWebserver/vanessaguerra/includes/library/System/Helper/ChildSelector.php",
+		"/media/data/cubWebserver/vanessaguerra/includes/library/Reuse/ACK/Model/Highlight.php",
+		"/media/data/cubWebserver/vanessaguerra/includes/library/System/Helper/Interface.php",
+		"/media/data/cubWebserver/vanessaguerra/includes/library/System/Helper/Abstract.php",
+		"/media/data/cubWebserver/vanessaguerra/includes/library/Reuse/ACK/View/helpers/RetrieveModules.php",
+		"/media/data/cubWebserver/vanessaguerra/js/ack/script.ack.js",
+		"/media/data/cubWebserver/vanessaguerra/includes/library/System/Search/Searchable/Abstract.php",
+		"/media/data/cubWebserver/vanessaguerra/includes/library/System/Search/Searchable/Interface.php",
+		"/media/data/cubWebserver/vanessaguerra/includes/Controller/helpers/Search/SearchCategory.php",
+		"/media/data/cubWebserver/vanessaguerra/includes/Controller/helpers/Search/Category.php",
+		"/media/data/cubWebserver/vanessaguerra/includes/library/System/Search/Interface.php",
+		"/media/data/cubWebserver/vanessaguerra/includes/library/System/DesignPattern/Polymorphism/Interface.php"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"dg",
+			");\n",
+			"autoloader",
+			"setPathDefault",
+			"getPathDefault",
+			"mail",
+			");\n",
+			"getconfi",
+			"config",
+			"{\n",
+			"_config",
+			"acesso",
+			"contato",
+			"cont",
+			"acesso",
+			"soma",
+			"produto",
+			"projeto",
+			"dbsave",
+			"googleAnalytic",
+			"alert",
+			"site.url",
+			"url",
+			"vaness",
+			"url",
+			"ur",
+			"site.url",
+			"tx_menor",
+			"endere",
+			"ender",
+			"metatags",
+			"METATAGS",
+			"metatags",
+			"projetos",
+			"result",
+			"resultCategory",
+			"		\n",
+			"galeria/projetos",
+			"GALERIA/PRO",
+			"$THIS->_MODULE",
+			"if",
+			"if]",
+			"if",
+			"marlon",
+			"(\n",
+			"Reuse_ACK_Model_",
+			"conteúdo",
+			"Produtos",
+			"sala",
+			"s",
+			"sala",
+			"servicos",
+			"idModulo",
+			"idModulo(\"contato",
+			"conta",
+			"idModulo(\"contatos\"",
+			"contatos",
+			"$this->_config",
+			"_config",
+			"set",
+			"fileName",
+			"<input type=\"submit\" value=\"Enviar\" title=\"Enviar\">",
+			"escritorio",
+			"ack/escritorio",
+			"ack/institucional",
+			"/ack/institucional",
+			"institucional.php",
+			"Tópico",
+			"tópico",
+			"idModulo(\"institucional\"",
+			"escritorio",
+			"institucional",
+			"Institucional",
+			"Time",
+			"ajax",
+			"AJA",
+			"ajax",
+			"ajaxName",
+			"JSON_PACKAGE_NAME",
+			"ajax",
+			"setQuery",
+			"$this->result",
+			"json.php",
+			"update",
+			"delete",
+			";\n",
+			"_where",
+			"fetchAll",
+			"fetch",
+			"fetach",
+			"fetachAll",
+			"();",
+			"../font/",
+			"../font",
+			"../imagens",
+			"../galeria",
+			"ikro",
+			"$this->getModule()",
+			"$this->module",
+			"__construct",
+			"System_DB_IOBase",
+			"resultado",
+			"usuario_ajax",
+			"senhaj",
+			"senha",
+			"deta",
+			"Sao_Paulo",
+			"createFromFormat",
+			"		\n",
+			"date1",
+			"date_create_from_format",
+			");",
+			"			$",
+			"']));",
+			"}\n",
+			"dg",
+			"SW",
+			"DG",
+			"produtoResult",
+			"DGPE_CODIGO",
+			"sw",
+			"getSchema",
+			"values",
+			"getSchema",
+			"VALUES",
+			"run()",
+			"getQuery",
+			"obj"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"projeto",
+			"galeria",
+			"idModulo(\"contatos",
+			"idModulo(\"contato\"",
+			"$this->config",
+			"$this->_config",
+			"file",
+			"ack/institucional",
+			"ack/escritorio",
+			"/ack/escritorio",
+			"Escritório",
+			"escritório",
+			"idModulo(\"escritorio\"",
+			"institucional",
+			"escritorio",
+			"Video",
+			"$this->_result",
+			"$this->_result;",
+			"/home/ajax",
+			"../../fonts/site/",
+			"../../../fonts/site/",
+			"../fonts/site",
+			"../../fonts/site",
+			"../../imagens/site",
+			"../imagens/site",
+			"../imagens/site/",
+			"../../../imagens",
+			"<?= $endereco_site ?>/galeria",
+			"vanessaguerra",
+			"result",
+			"currCategoria",
+			"currInstitucional",
+			"currNotice",
+			"tipo_servico",
+			"institucional",
+			"../../galeria/montadoras",
+			"currCategoria",
+			"../../galeria/produtos",
+			"self::$className",
+			"self::$maxProducts",
+			"self::maxProducts",
+			"ajax",
+			"../imagens/site/",
+			"imagens/site/",
+			"ikro",
+			"$this->soapGiulian",
+			"Orçamento",
+			"$dadosOrcamento",
+			"orcamentos_app",
+			"48",
+			"usuarioapp",
+			"orcamento",
+			"orcamentos",
+			"orcamento",
+			"orcamentos",
+			"usuario",
+			"usuarios",
+			"usuario",
+			"usuarios",
+			"47",
+			"usuario",
+			"usuarios",
+			"usuarios_app",
+			"47",
+			"dadosItem",
+			"Servico",
+			"Servicos",
+			"Servico",
+			"servico"
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/media/data/cubWebserver/vanessaguerra/includes/bootstrap.php",
+					"settings":
+					{
+						"buffer_size": 1682,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"indent": 1.0,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 0.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+								"php": "php"
+							},
+							"sublimelinter_fill_outlines": true,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": true,
+							"sublimelinter_syntax_map":
+							{
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/media/data/cubWebserver/vanessaguerra/includes/library/1.0/System/Autoloader.php",
+					"settings":
+					{
+						"buffer_size": 3054,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3010,
+								3010
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"indent": 1.0,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 0.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+								"php": "php"
+							},
+							"sublimelinter_fill_outlines": true,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": true,
+							"sublimelinter_syntax_map":
+							{
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 6,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 29.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"autoloader",
+				"includes/library/1.0/System/Autoloader.php"
+			],
+			[
+				"home",
+				"includes/Controller/home_Controller.php"
+			],
+			[
+				"boostrap.php",
+				"includes/bootstrap.php"
+			],
+			[
+				"autoloade",
+				"includes/library/1.0/System/Autoloader.php"
+			],
+			[
+				"autolo",
+				"includes/library/1.0/System/Autoloader.php"
+			],
+			[
+				"1.0/application",
+				"includes/library/1.0/System/Application.php"
+			],
+			[
+				"application.php",
+				"includes/library/Zend/Application.php"
+			],
+			[
+				"bootstrap.hp",
+				"includes/bootstrap.php"
+			],
+			[
+				"autoloader.php",
+				"includes/library/1.0/System/Autoloader.php"
+			],
+			[
+				"bootstrap.php",
+				"includes/bootstrap.php"
+			],
+			[
+				"application.ini",
+				"includes/configs/application.ini"
+			],
+			[
+				"applc",
+				"includes/library/Zend/Tool/Project/Context/Zf/ApplicationConfigFile.php"
+			],
+			[
+				"homecontro",
+				"includes/Controller/home_Controller.php"
+			],
+			[
+				"application.ph",
+				"includes/library/0.9/System/Application.php"
+			],
+			[
+				"helpers.php",
+				"includes/helpers.php"
+			],
+			[
+				"bootstrp.ph",
+				"includes/bootstrap.php"
+			],
+			[
+				"controller.php",
+				"includes/library/System/Controller.php"
+			],
+			[
+				"contatocontro",
+				"includes/Controller/contato_Controller.php"
+			],
+			[
+				"homec",
+				"includes/Controller/home_Controller.php"
+			],
+			[
+				"dashbo",
+				"includes/View/ack/dashboard.php"
+			],
+			[
+				"helpers",
+				"includes/helpers.php"
+			],
+			[
+				"dados",
+				"includes/View/ack/dados_gerais.php"
+			],
+			[
+				"produto.php",
+				"includes/View/ack/produto.php"
+			],
+			[
+				"produtos.php",
+				"includes/View/ack/produtos.php"
+			],
+			[
+				"acklogs",
+				"includes/Model/ack/ACKlogs_Model.php"
+			],
+			[
+				"contato",
+				"includes/Controller/contato_Controller.php"
+			],
+			[
+				"_l",
+				"includes/View/front/layout/_layout.php"
+			],
+			[
+				"vanessaguerra.js",
+				"js/site/script.vanessa_guerra.js"
+			],
+			[
+				"script.van",
+				"js/site/script.vanessa_guerra.js"
+			],
+			[
+				"json.php",
+				"layout/json.php"
+			],
+			[
+				"modulo.php",
+				"includes/View/ack/modulo.php"
+			],
+			[
+				"institu",
+				"includes/View/ack/institucional_topico.php"
+			],
+			[
+				"produtocategor",
+				"includes/View/ack/produtos_categoria.php"
+			],
+			[
+				"_layout",
+				"includes/View/front/layout/_layout.php"
+			],
+			[
+				"category.ph",
+				"includes/library/Reuse/ACK/Model/Category.php"
+			],
+			[
+				"_layout.php",
+				"includes/View/front/layout/_layout.php"
+			],
+			[
+				"layout",
+				"includes/library/Zend/Layout.php"
+			],
+			[
+				"db/table.php",
+				"includes/library/System/DB/Table.php"
+			],
+			[
+				"institutional.pp",
+				"includes/library/Reuse/ACK/Model/Institutional.php"
+			],
+			[
+				"produtocategoria",
+				"includes/View/ack/produtos_categoria.php"
+			],
+			[
+				"inst",
+				"includes/View/ack/institucional.php"
+			],
+			[
+				"table.php",
+				"includes/library/System/DB/Table.php"
+			],
+			[
+				"institutional",
+				"includes/library/Reuse/ACK/Model/Institutional.php"
+			],
+			[
+				"db/table.",
+				"includes/library/System/DB/Table.php"
+			],
+			[
+				"institucio",
+				"includes/View/ack/institucional.php"
+			],
+			[
+				"product.hp",
+				"includes/library/Reuse/ACK/Model/Product.php"
+			],
+			[
+				"script.ack.js",
+				"js/ack/script.ack.js"
+			],
+			[
+				"category.php",
+				"includes/library/Reuse/ACK/Model/Category.php"
+			],
+			[
+				"bootstr",
+				"includes/bootstrap.php"
+			],
+			[
+				"scriptvane",
+				"js/site/script.vanessa_guerra.js"
+			],
+			[
+				"produtoscontro",
+				"includes/Controller/produtos_Controller.php"
+			],
+			[
+				"escrito",
+				"includes/Controller/escritorio_Controller.php"
+			],
+			[
+				"systemc",
+				"includes/library/System/Controller.php"
+			],
+			[
+				"system/contro",
+				"includes/library/System/Controller.php"
+			],
+			[
+				"system/controller.php",
+				"includes/library/System/Controller.php"
+			],
+			[
+				"reuse/image.php",
+				"includes/library/Reuse/ACK/Model/Image.php"
+			],
+			[
+				"ackupl",
+				"includes/Controller/ack/ACKuploads_Controller.php"
+			],
+			[
+				"produtos_categor",
+				"includes/View/ack/produtos_categoria.php"
+			],
+			[
+				"categorias.php",
+				"includes/View/ack/produtos_categorias.php"
+			],
+			[
+				"system/db/table.php",
+				"includes/library/System/DB/Table.php"
+			],
+			[
+				"produtosca",
+				"includes/View/ack/produtos_categoria.php"
+			],
+			[
+				"contato.php",
+				"includes/View/ack/contato.php"
+			],
+			[
+				"contatos.php",
+				"includes/View/ack/contatos.php"
+			],
+			[
+				"ackcont",
+				"includes/Controller/ack/ACKcontatos_Controller.php"
+			],
+			[
+				"mail.php",
+				"includes/library/System/Mail.php"
+			],
+			[
+				"mail",
+				"includes/library/System/Mail.php"
+			],
+			[
+				"controller.ph",
+				"includes/library/System/Controller.php"
+			],
+			[
+				"db/ta",
+				"includes/library/System/DB/Table.php"
+			],
+			[
+				"vanessa.js",
+				"js/site/script.vanessa_guerra.js"
+			],
+			[
+				"controller",
+				"includes/library/System/Controller.php"
+			],
+			[
+				"application",
+				"includes/library/System/Application.php"
+			],
+			[
+				"escrit",
+				"includes/Controller/escritorio_Controller.php"
+			],
+			[
+				"retrievem",
+				"includes/library/Reuse/ACK/View/helpers/RetrieveModules.php"
+			],
+			[
+				"front",
+				"includes/library/System/FrontController.php"
+			],
+			[
+				"contro",
+				"includes/library/System/Controller.php"
+			],
+			[
+				"db/table",
+				"vanessaguerra/includes/library/System/DB/Table.php"
+			],
+			[
+				"controll",
+				"vanessaguerra/includes/library/System/Controller.php"
+			],
+			[
+				"b",
+				"vanessaguerra/includes/bootstrap.php"
+			],
+			[
+				"config.php",
+				"vanessaguerra/includes/library/System/Config.php"
+			],
+			[
+				"conf",
+				"vanessaguerra/includes/library/System/Config.php"
+			],
+			[
+				"bo",
+				"vanessaguerra/includes/bootstrap.php"
+			],
+			[
+				"boots",
+				"vanessaguerra/includes/bootstrap.php"
+			],
+			[
+				"controlle",
+				"vanessaguerra/includes/library/System/Controller.php"
+			],
+			[
+				"utils.php",
+				"vanessaguerra/includes/library/System/utils.php"
+			],
+			[
+				"media.php",
+				"vanessaguerra/includes/library/System/Media.php"
+			],
+			[
+				"control",
+				"vanessaguerra/includes/library/System/Controller.php"
+			],
+			[
+				"retrievemo",
+				"vanessaguerra/includes/library/Reuse/ACK/View/helpers/RetrieveModules.php"
+			],
+			[
+				"retrieve",
+				"vanessaguerra/includes/library/Reuse/ACK/View/helpers/RetrieveModules.php"
+			],
+			[
+				"retri",
+				"vanessaguerra/includes/library/Reuse/Test/FiltrarUsuarioTestCase.php"
+			],
+			[
+				"iobase",
+				"vanessaguerra/includes/library/System/DB/IOBase.php"
+			],
+			[
+				"retrive",
+				"vanessaguerra/includes/library/Reuse/ACK/View/helpers/RetrieveModules.php"
+			],
+			[
+				"retriv",
+				"vanessaguerra/includes/library/Reuse/ACK/View/helpers/RetrieveModules.php"
+			],
+			[
+				"dbabstract",
+				"vanessaguerra/includes/library/Zend/Db/Table/Abstract.php"
+			],
+			[
+				"mode.",
+				"vanessaguerra/includes/library/System/Model.php"
+			],
+			[
+				"index.html",
+				"vanessaguerra/layout/index.html"
+			],
+			[
+				"helper",
+				"ikro/includes/helpers.php"
+			],
+			[
+				"contato_contro",
+				"ikro/includes/Controller/contato_Controller.php"
+			],
+			[
+				"ikro.js",
+				"ikro/js/site/script.ikro.js"
+			],
+			[
+				"ikro",
+				"ikro/layout/js/script.ikro.js"
+			],
+			[
+				"noticiascontro",
+				"ikro/includes/Controller/noticias_Controller.php"
+			],
+			[
+				"sync.php",
+				"ikro/sync.php"
+			],
+			[
+				"usuari",
+				"ikro/includes/library/reuse/Model/Usuario.php"
+			],
+			[
+				"usuariocontro",
+				"ikro/includes/library/reuse/Controller/usuario_Controller.php"
+			],
+			[
+				"auth",
+				"ikro/includes/library/System/Auth.php"
+			],
+			[
+				"onde",
+				"ikro/layout/onde_comprar.php"
+			],
+			[
+				"produto.pp",
+				"ikro/includes/Model/Produto.php"
+			],
+			[
+				"produtoscon",
+				"ikro/includes/Controller/produtos_Controller.php"
+			],
+			[
+				"produto.ph",
+				"ikro/includes/Model/Produto.php"
+			],
+			[
+				"produto_con",
+				"ikro/includes/Controller/produtos_Controller.php"
+			],
+			[
+				"detales",
+				"ikro/includes/View/publico/produtos/detalhes.php"
+			],
+			[
+				"produtod",
+				"ikro/layout/produtos_detalhes.php"
+			],
+			[
+				"sync.",
+				"ikro/sync.php"
+			],
+			[
+				"table.",
+				"ikro/includes/library/System/DB/Table.php"
+			],
+			[
+				"utils.",
+				"ikro/includes/library/System/utils.php"
+			],
+			[
+				"novo",
+				"ikro/includes/View/restrito/pedido/novo.php"
+			],
+			[
+				"searchprodu",
+				"ikro/includes/Controller/helpers/SearchProduct.php"
+			],
+			[
+				"s",
+				"ikro/sync.php"
+			],
+			[
+				"usuario.php",
+				"ikro/includes/library/reuse/Model/Usuario.php"
+			],
+			[
+				"sync",
+				"ikro/sync.php"
+			],
+			[
+				"table.ph",
+				"ikro/includes/library/System/DB/Table.php"
+			],
+			[
+				"cidade",
+				"ikro/includes/library/reuse/Model/Cidade.php"
+			],
+			[
+				"cida",
+				"ikro/includes/library/reuse/Model/Cidade.php"
+			],
+			[
+				"table",
+				"ikro/includes/library/System/DB/Table.php"
+			],
+			[
+				"ioba",
+				"ikro/includes/library/System/DB/IOBase.php"
+			],
+			[
+				"dbta",
+				"zend/Zend/Auth/Adapter/DbTable.php"
+			],
+			[
+				"substitu",
+				"ikro/includes/Model/Substituto.php"
+			],
+			[
+				"iobas",
+				"ikro/includes/library/System/DB/IOBase.php"
+			],
+			[
+				"model.ph",
+				"ikro/includes/library/System/Model.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 389.0,
+	"status_bar_visible": true
+}

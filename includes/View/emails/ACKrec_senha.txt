@@ -1,0 +1,22 @@
+﻿<h1>
+#seta
+#assunto
+</h1>
+
+
+<p>
+Olá #nome, você está recebendo este e-mail pois solicitou o envio de uma nova senha de acesso ao Painel ACK.<br />
+
+Abaixo seguem os dados para você acessar a sua conta.
+</p>
+
+<br />
+
+
+<p>
+#seta
+Nome de Usuário: <b>#email</b><br />
+
+#seta
+Senha: <b>#nova_senha</b>
+</p>

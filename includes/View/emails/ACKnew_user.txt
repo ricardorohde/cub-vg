@@ -1,0 +1,25 @@
+﻿<h1>
+#seta
+#assunto
+</h1>
+
+
+<p>
+Olá #nome, você está recebendo este e-mail pois foi criado um novo usuário para você acessar o Painel ACK.<br />
+
+Abaixo seguem os dados para você acessar a sua conta.
+</p>
+
+<br />
+
+
+<p>
+#seta
+Nome de Usuário: <b>#email</b><br />
+
+#seta
+Senha: <b>#senha</b><br />
+
+#seta
+Link do Painel: <a href="#url_site/ack" targer="_blank">#url_site/ack</a>
+</p>

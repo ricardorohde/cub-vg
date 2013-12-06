@@ -1,0 +1,15 @@
+.cycle-nav {
+	display:inline;
+}
+#projetos .cycle-nav {
+	padding:25px 0 0 0;
+}
+.projects-title > div {
+	position: absolute;
+	top: 50%; right:0;
+}
+.projects-title > div p {
+	position: relative;
+	top: -50%;
+}
+

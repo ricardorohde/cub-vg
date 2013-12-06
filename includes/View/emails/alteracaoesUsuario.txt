@@ -1,0 +1,22 @@
+<h1>
+#seta
+#assunto
+</h1>
+
+
+<p>
+Olá o cliente #nome tem a seguinte dúvida: <br />
+
+</p>
+
+<br />
+
+
+<p>
+#mensagem
+</p>
+
+<p>
+#seta
+Contato: <b>#email</b>
+</p>

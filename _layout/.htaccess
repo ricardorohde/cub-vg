@@ -1,0 +1,37 @@
+IndexIgnore *
+RewriteEngine On
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_URI} ^(.*\.(jpg|gif|png|css|js)) [NC]
+RewriteRule ^(.*)$ /$1 [L]
+
+RewriteCond %{REQUEST_URI} ^(.*) [NC]
+RewriteRule ^(includes) - [F]
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)$ index.php?v1=$1 [L]
+
+
+# PHP error handling for production servers
+php_flag display_startup_errors off
+php_flag display_errors off
+php_flag html_errors off
+php_flag log_errors on
+php_flag ignore_repeated_errors off
+php_flag ignore_repeated_source off
+php_flag report_memleaks on
+php_flag track_errors on
+php_value docref_root 0
+php_value docref_ext 0
+php_value error_log /home/path/public_html/domain/PHP_errors.log
+# [see footnote 3] # php_value error_reporting 999999999
+php_value error_reporting -1
+php_value log_errors_max_len 0
+
+<Files PHP_errors.log>
+ Order allow,deny
+ Deny from all
+ Satisfy All
+</Files>
