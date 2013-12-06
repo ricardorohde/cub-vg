@@ -750,8 +750,8 @@ var markups = {
 				<div class="right">\
 					<iframe class="mapa" width="430" height="223" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="{mapa}&output=embed"></iframe>\
 					<div class="midias">\
-						<a href="https://www.facebook.com/vanessa.guerra.26.11" class="facebook" target="_blank" title="Facebook">Facebook</a>\
-						<a href="#" class="twitter" target="_blank" title="Twitter">Twitter</a>\
+						<a href="{facebook}" class="facebook" target="_blank" title="Facebook">Facebook</a>\
+						<a href="{twitter}" class="twitter" target="_blank" title="Twitter">Twitter</a>\
 					</div>\
 					<div class="address">\
 						<p>{telefone}</p>\
@@ -797,7 +797,7 @@ var markups = {
 	',
 	lista : '\
 		<div id="projects-cycle">\
-			<ul class="projects-list">\
+			<ul class="projects-list" data-cycle-log="false">\
 				{itens}\
 			</ul>\
 		</div>\
@@ -955,13 +955,6 @@ function ajaxInit(){
 	}
 
 
-
-
-	console.log( $dados );
-
-
-
-
 	// overlay
 	$('.loader').fadeIn('fast');
 
@@ -1013,6 +1006,8 @@ function ajaxInit(){
 					markups.contato	.replace(/{telefone}/, $resposta.telefone )
 									.replace(/{endereco}/, $resposta.endereco )
 									.replace(/{mapa}/, $resposta.mapa )
+									.replace(/{facebook}/, $resposta.facebook )
+									.replace(/{twitter}/, $resposta.twitter )
 				);
 			}
 			// projetos / categoria / busca

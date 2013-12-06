@@ -5,23 +5,22 @@ $cache=false;
 
 /*==============Dados de conexão ao baco de dados do site=============*/
 $db_host = "localhost";
-$db_user = "vanessag";
-$db_pass = "123456";
-$db_name = "vanessag";
+$db_user = "root";
+$db_pass = "root";
+$db_name = "vanessaguerra";
 
 /*=====================Dados de Sessão e Cookie=======================*/
 $nome_sessao="vanessag";
 $diretorio_cookie="/clientes/vanessa";
 $servidor_cookie=".icub.com.br";
-$tempo_sessao=false; //Em segundos | Se for false, o ACK não irá expirar 
+$tempo_sessao=false; //Em segundos | Se for false, o ACK não irá expirar
 
 /*===============Dados para envio e leitura de arquivos===============*/
-$endereco_fisico=$_SERVER["DOCUMENT_ROOT"]."/clientes/vanessa";
+$endereco_fisico=$_SERVER["DOCUMENT_ROOT"]."";
 $endereco_site = 'http';
  if (@$_SERVER["HTTPS"] == "on") {$endereco_site .= "s";}
 $endereco_site .= "://";
 $endereco_site.= ($_SERVER["SERVER_PORT"] != "80") ? $_SERVER["SERVER_NAME"].":".$_SERVER["SERVER_PORT"] : $_SERVER["SERVER_NAME"];
-$endereco_site.="/clientes/vanessa";
 
 /*==============Dados para geração e gravação de imagens==============*/
 $largura_definida="1920";
@@ -35,4 +34,3 @@ setlocale(LC_ALL, "pt_BR", "ptb");
 /*===============Caracteres para a conversão de URL===================*/
 $caracteresInvalidos = array("'", '"');
 $caracteresConvertidos = array("", "");
-?>
