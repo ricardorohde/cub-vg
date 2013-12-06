@@ -27,19 +27,19 @@
                 <tr>
                     <td>
                         <table width="100%" border="0" cellspacing="0" cellpadding="0" style="padding:45px 45px 25px 45px; text-align:left;">
-                        	
-                        	O usuário <b><?= $remetente ?></b>, fone: <b><?= $fone ?></b>, enviou a seguinte mensagem:
 
-                        	<p><?= $mensagem ?></p>
-	
-						</table>
+                            O usuário <b><?= $remetente ?></b>, fone: <b><?= $fone ?></b>, enviou-lhe a seguinte mensagem:
+                            <br />
+                            <p><?= $mensagem ?></p>
+
+                        </table>
                     </td>
                 </tr>
                 <tr>
                     <td><img src="<?= $endereco_site ?>/imagens/email/shadow.png" alt="" width="600" height="40" border="0" style="display:block;" /></td>
                 </tr>
                 <tr>
-                    <td style="text-align:center; padding:15px 0 15px 0; font-size:11px; color:#666;">' <a href="mailto:'.$enderecoSite["email_".$idioma].'" style="color:#666; text-decoration:none;"></a><br />
+                    <td style="text-align:center; padding:15px 0 15px 0; font-size:11px; color:#666;">' <a href="mailto:'<?php echo $enderecoSite["email_".$idioma] ?>" style="color:#666; text-decoration:none;"></a><br />
                         <a href="<?= $endereco_site ?>" target="_blank" style="color:#666; text-decoration:none;"></a></td>
                 </tr>
             </table>
