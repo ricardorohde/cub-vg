@@ -28,9 +28,14 @@
                     <td>
                         <table width="100%" border="0" cellspacing="0" cellpadding="0" style="padding:45px 45px 25px 45px; text-align:left;">
 
-                            O usuário <b><?= $remetente ?></b>, fone: <b><?= $fone ?></b>, enviou-lhe a seguinte mensagem:
-                            <br />
-                            <p><?= $mensagem ?></p>
+                                Um novo contato foi enviado através do site da Vanessa Guerra.
+                                Confira abaixo as informações a respeito.
+                                <br />
+                                <br />
+
+                                <b>Remetente:</b> <?= $remetente ?><br />
+                                <b>Fone:</b> <?= $fone ?><br />
+                                <b>Mensagem:</b> <?= $mensagem ?>
 
                         </table>
                     </td>
