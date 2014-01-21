@@ -64,6 +64,14 @@ $(function(){
 	$(window).bind(tipo, function(){
 		site.resize();
 	});
+    
+    
+    // ---------------- share links
+	$('body').on('click','.share-box .facebook, .share-box .twitter', function (event) {
+		event.preventDefault();
+		var $url = $(this).attr('href');
+		window.open($url, 'share', 'width=500,height=400');
+	});
 
 
 	// ---------------- check forms
@@ -839,8 +847,8 @@ var markups = {
 			<div class="text-box">{tx_maior}</div>\
 			<div class="addthis_toolbox share-box">\
 				<span>Compartilhe esse projeto</span>\
-				<a class="addthis_button_facebook facebook" data-url="{url}"><img src="imagens/site/ic_facebook_pequeno.png" alt="" /></a>\
-				<a class="addthis_button_twitter twitter" data-url="{url}"><img src="imagens/site/ic_twitter_pequeno.png" alt="" /></a>\
+                <a href="https://www.facebook.com/sharer/sharer.php?s=100&p[url]=http://www.vanessaguerra.com.br&p[title]=Vanessa Guerra&p[summary]=Projetos completos de Arquitetura e Interiores, com destaque e especialização em empreendimentos comerciais, corporativos e de serviços, que atendem perfeitamente as suas expectativas. Acesse o site e saiba mais!&p[images][0]=http://www.vanessaguerra.com.br/imagens/site/fthumb.jpg" class="facebook" title="Compartilhar no Facebook"><img src="imagens/site/ic_facebook_pequeno.png" alt="" /></a>\
+                <a href="https://twitter.com/intent/tweet?text=Vanessa Guerra Arquitetura %7C Projetos completos que atendem perfeitamente as suas expectativas. Acesse:&url=http:%2F%2Fwww.vanessaguerra.com.br" class="twitter" title="Twittar"><img src="imagens/site/ic_twitter_pequeno.png" alt="" /></a>\
 			</div>\
 		</div> <!-- fim descricao -->\
 	',
@@ -1291,7 +1299,6 @@ function ajaxInit(){
 					if ( site.isiPad ) {
 						galeria.swipe = new Swipe(document.getElementById('carousel'));
 					}
-					addthis.toolbox(".addthis_toolbox");
 				}
 
 			}

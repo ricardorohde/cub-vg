@@ -813,24 +813,25 @@ ol.principal li ol li ol li ol li ol li ol li ol li ol li > div .setaSub { margi
 .botao[disabled="disabled"]:hover > span > em { color: #666; border-bottom: 1px dotted #666; }
 .botao[disabled="disabled"]:hover > span > var { background-position: left top; }
 
-/* ----- Checkbox personalizado ----- */
-label.visivel,
+/* ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- ----- Checkbox personalizado */
+.visivel,
 .inputCover {
 	display: inline-block;
 	width: 12px;
 	height: 12px;
 	background: url(../../imagens/ack/icon_checkBox.png) no-repeat left bottom;
 }
-label.visivel:hover, label.visivel:focus,
+
+.visivel:hover, .visivel:focus,
 .inputCover:hover, .inputCover:focus { background-position: left -13px; }
 
-.lista ol li > div > label.visivel, label.visivel input,
+.lista ol li > div > .visivel, .visivel input,
 .inputCover input { padding:0; }
 
-label.visivel.ok,
+.visivel.ok,
 .inputCover.ok { background-position: left top; }
 
-label.visivel input,
+.visivel input,
 .inputCover input {
 	width:  12px;
 	height: 12px;
@@ -843,12 +844,14 @@ label.visivel input,
 }
 
 
+/* ----- para Vanessa Guerra, nao usar no ack default */
 .checkCover {
-	font-size: 12px;
-	line-height: 15px;
-	color: #666;
+	color: #666666;
+	display: inline-block;
+	font-size: 11px;
+	margin: 0 0 0 4px;
 }
-
+.checkCover:hover { color: #333; }
 
 
 
