@@ -850,4 +850,71 @@ jQuery(function(){
 	});
 	
 	
+
+
+	$('.arquivosBloco').on('click', '.inputCover input', function(){
+		var clicado  = $(this),
+			siblings = clicado.parents('li').siblings('li').find('input[name="imgCover"]');
+
+		if ( !clicado.is(':checked') ) {
+			clicado.parent('.inputCover').addClass('ok');
+			siblings.prop('checked', false).parent('.inputCover').removeClass('ok');
+		}
+		else if ( clicado.is(':checked') ) {
+			clicado.parent().removeClass('ok');
+		};
+	})
+	
+	
+	
+	
+	
+	
+	
 });
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

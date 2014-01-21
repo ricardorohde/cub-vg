@@ -77,41 +77,6 @@ jQuery(function(){
 			}
 		})
 	};
-
-
-
-	$('.arquivosBloco').on('click', '.inputCover input', function(){
-		var clicado  = $(this),
-			outros   = Array(),
-			siblings = clicado.parents('li').siblings('li').find('input[name="imgCover"]'),
-			dados    = { 'foto_id':clicado.parents('li').attr('id'), 'cover':((clicado.is(':checked')) ? 1 : 0)  };
-
-		$.each(clicado.parents('li').siblings('li'), function(){
-			var irmao = $(this);
-			outros.push( irmao.attr('id') )
-		});
-
-		dados['ids'] = outros;
-
-		if ( clicado.is(':checked') ) {
-			var pacote = JSON.stringify(dados);
-			$.ajax({
-				url: siteURL+'/ack/ajax/salvarCover',
-				type: 'POST',
-				data: {'ajaxACK':pacote},
-				dataType: 'json',
-				
-				success: function(data){
-					if (data.status == 1) {
-						clicado.parent('.inputCover').addClass('ok');
-						siblings.prop('checked', false).parent('.inputCover').removeClass('ok');
-					};
-				}
-			})
-		} else {
-			return
-		};
-	})
 	
 	
 	/* ----------------------------------------------------------------------------------------------------

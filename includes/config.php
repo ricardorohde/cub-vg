@@ -7,7 +7,7 @@ $cache=false;
 $db_host = "localhost";
 $db_user = "root";
 $db_pass = "root";
-$db_name = "vanessaguerra";
+$db_name = "vanessa";
 
 /*=====================Dados de Sessão e Cookie=======================*/
 $nome_sessao="vanessag";
