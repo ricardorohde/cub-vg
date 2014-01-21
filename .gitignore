@@ -20,3 +20,4 @@ config/autoload/local.php
 galeria/*
 includes/config.php
 plugins/thumb*
+*cache*
